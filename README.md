@@ -1,6 +1,6 @@
 # Hi, I'm Mert Kahraman 👋
 
-I'm a junior software engineer and I am always open for new challenges.
+I'm a junior software engineer and I'm always open for new challenges.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mrtkhrmn3)
 
