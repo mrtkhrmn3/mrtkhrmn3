@@ -31,7 +31,7 @@ I'm a junior software engineer and I am always open for new challenges.
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="35" alt="mssql" />
-      <img src="https://skillicons.dev/icons?theme=dark&i=postgres,mysql,mongodb" height="40" alt="databases" />
+      <img src="https://skillicons.dev/icons?theme=dark&i=mysql,mongodb" height="40" alt="databases" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" alt="oracle" />
     </td>
   </tr>
